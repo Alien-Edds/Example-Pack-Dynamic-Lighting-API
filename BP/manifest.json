@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "product_type": "addon"
+    },
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "c080a962-8071-46fd-ad77-96d7a971899f",
+        "min_engine_version": [
+            1,
+            21,
+            90
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "c2ee5d57-d678-481f-bf99-09d3fb5250cf",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "entry": "scripts/main.js",
+            "uuid": "9f9f9b15-cecd-43b2-9379-7ac110787845",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.0.0"
+        }
+    ]
+}
