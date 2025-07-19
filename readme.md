@@ -1,2 +1,2 @@
 # Hello!
-### This pack will teach you how to use my Dynamic Lighting API for Minecraft Bedrock Edition.
+### This repo will teach you how to use my Dynamic Lighting API for Minecraft Bedrock Edition.
