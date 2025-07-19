@@ -1,6 +1,6 @@
 # Hello!
 ### This repo will teach you how to use my Dynamic Lighting API for Minecraft Bedrock Edition.
-Here are the [JavaScript](https://gist.github.com/Alien-Edds/63534df288802686ed14d79a9666858a) and [(TypeScript](https://gist.github.com/Alien-Edds/0b26fb7982da0c9f82b31bad3fba87ae) API files.
+Here are the [JavaScript](https://gist.github.com/Alien-Edds/63534df288802686ed14d79a9666858a) and [TypeScript](https://gist.github.com/Alien-Edds/0b26fb7982da0c9f82b31bad3fba87ae) API files.
 
 You will need one of them in your pack depending on if you're using JS or TS.
 
